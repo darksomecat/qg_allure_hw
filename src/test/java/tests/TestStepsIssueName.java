@@ -6,7 +6,6 @@ import io.qameta.allure.Story;
 import io.qameta.allure.selenide.AllureSelenide;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import tests.components.TestBase;
 
 
 public class TestStepsIssueName extends TestBase {
